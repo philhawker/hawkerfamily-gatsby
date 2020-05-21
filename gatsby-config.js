@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Hawker Family Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Julie Hawker`,
+      summary: `The Hawker Family Blog is written in honor of our Savior Jesus Christ. This website is a non-judgmental gathering place for LDS members as we prepare for prophetic events to come. I hope this space will be a soft place in a hard world. Join the conversation.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `juliehawker`,
     },
   },
   plugins: [
